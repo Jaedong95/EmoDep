@@ -6,7 +6,7 @@ Criteria | Base Word | Similar Word
 --|--|--
  A1 | depressed | deppressed, sad, unhappy, deppresed, moody, depresssed, lonely, depresed
  A2 | interest | interest, enjoyment, interests, interst, passion, enthusiasm, pleasure, joy, apetite
-    | pleasure | enjoyment, joy, satisfcation, excitement, fulfillment, fulfilment, euphoria, happiness  
+ A2 | pleasure | enjoyment, joy, satisfcation, excitement, fulfillment, fulfilment, euphoria, happiness  
  A3 | appetite | sleepiness, apetite, concentration, weight, apatite
  A3 | weight | lbs, kg 
  A4 | insomnia | migraines, nausea, tinnitus, sleeplessness, drowsiness, diarrhea, fatigue, hypersomnia
